@@ -35,5 +35,11 @@ Valid license key should be entered for the plugin to function and to receive au
 
 == Changelog ==
 
+= 1.0.2 - April 15, 2020 =
+* Fixed an issue with undo going two steps backward after editing text.
+
+= 1.0.1 - April 09, 2020 =
+* Added compatibility with Editor Enhancer PRO (works already with the free version).
+
 = 1.0 - April 08, 2020 =
 * Initial Release.

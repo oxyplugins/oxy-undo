@@ -39,20 +39,26 @@ Valid license key should be entered for the plugin to function and to receive au
 
 == Changelog ==
 
-= 1.1.2 - April 22, 2020 =
+= 1.1.2 (April 22, 2020) =
+
 * Fixed CSS of Undo and Redo buttons for Editor Enhancer Pro (tested in 2.1.1) for both Oxygen 3.2.1 and 3.3 Beta 1.
 
-= 1.1.1 - April 21, 2020 =
+= 1.1.1 (April 21, 2020) =
+
 * Fixed CSS for the Undo and Redo buttons with Editor Enhancer Pro (tested in v2.1.1).
 
-= 1.1 - April 17, 2020 =
+= 1.1 (April 17, 2020) =
+
 * Added autosave feature.
 
-= 1.0.2 - April 15, 2020 =
+= 1.0.2 (April 15, 2020) =
+
 * Fixed an issue with undo going two steps backward after editing text.
 
-= 1.0.1 - April 09, 2020 =
+= 1.0.1 (April 09, 2020) =
+
 * Added compatibility with Editor Enhancer PRO (works already with the free version).
 
-= 1.0 - April 08, 2020 =
+= 1.0 (April 08, 2020) =
+
 * Initial Release.

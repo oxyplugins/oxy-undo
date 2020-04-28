@@ -11,6 +11,8 @@ Adds the missing undo and redo functionality in the Oxygen builder.
 
 == Description ==
 
+This plugin adds the missing undo and redo functionality in the Oxygen builder.
+
 A few sample use cases:
 
 * Undoing moving elements around in the Structure Panel or accidental drag and drop actions in the main center frame.
@@ -18,6 +20,8 @@ A few sample use cases:
 * Recovering the text deleted from components like Text and Progress Bar which is otherwise not possible.
 * Creating re-usable parts from an element and continue to edit the element by immediately pressing the Undo button. The reusable part can be found in the Templates list.
 * Recovering an accidental deletion of a condition.
+
+A valid license key must be entered for the plugin to function and to receive automatic updates.
 
 == Installation ==
 

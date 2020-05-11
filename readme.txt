@@ -39,6 +39,9 @@ Valid license key should be entered for the plugin to function and to receive au
 
 == Changelog ==
 
+= 1.1.3 (May 11, 2020)
+* Disabled undo and redo in the class name fields and fixed error upon undoing/redoing after adding a class name.
+
 = 1.1.2 (April 22, 2020) =
 
 * Fixed CSS of Undo and Redo buttons for Editor Enhancer Pro (tested in 2.1.1) for both Oxygen 3.2.1 and 3.3 Beta 1.

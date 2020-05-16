@@ -39,6 +39,9 @@ Valid license key should be entered for the plugin to function and to receive au
 
 == Changelog ==
 
+= 1.1.5 (May 16, 2020)
+* Fixed an issue with adding library elements.
+
 = 1.1.4 (May 12, 2020)
 * Added an option to disable keyboard shortcuts.
 
